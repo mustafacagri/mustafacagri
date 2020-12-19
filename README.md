@@ -16,11 +16,13 @@
 <p align="center">By the way, MySQL, MSSQL, MongoDB, Firebase are in my stack too.</p>
 
 
-<div class="col-12 col-md-6 col-lg-6 my-3 d-flex flex-content-stretch">
-  <div class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item text-center">
-    <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mustafacagri&count_private=true&show_icons=true&theme=dracula"/>
-  </div>
-  <div class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item text-center">
-    <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mustafacagri&theme=dracula&layout=compact&langs_count=8" />
-  </div>
-</div>
+<table border="0">
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mustafacagri&count_private=true&show_icons=true&theme=dracula"/>
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=mustafacagri&theme=dracula&layout=compact&langs_count=8" />
+        </td>
+    </tr>
+</table>

@@ -17,7 +17,7 @@
 
 
 
-##  &nbsp;🔧 Technologies & Tools
+##  &nbsp; 🔧 Technologies & Tools
 <div style="display:flex;">
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -43,8 +43,9 @@
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div>
 
+<p>&nbsp;</p>
 
-<table border="0" style="margin-top:30px;" class="mt-5">
+<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
     <tr>
         <td align="center">
             <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=mustafacagri&count_private=true&show_icons=true&theme=dracula"/>

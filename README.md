@@ -50,3 +50,9 @@
     <img alt="Mustafa Çağrı's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=dracula&count_private=true&hide_border=true">
     <img alt="Mustafa Çağrı's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacagri&theme=dracula&hide_border=true">
 </div>
+
+
+<p>&nbsp;</p>
+
+<h3>Latest Medium Post</h3>
+<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mustafacagri/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mustafacagri/0" width="100%" /> 

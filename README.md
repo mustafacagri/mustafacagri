@@ -46,19 +46,7 @@
 
 <p>&nbsp;</p>
 
-<table border="0" style="margin-top:30px; border:0px !important;" class="mt-4">
-    <tr>
-        <td>
-<a href="https://github-readme-stats.vercel.app/api?username=mustafacagri&count_private=true"><img alt="Mustafa Çağrı's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mustafacagri/github-readme-stats"><img alt="Mustafa Çağrı's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
-        </td>
-    </tr>
-</table>
-
-<table border="0" style="margin-top:30px; border:0px !important;" class="mt-4">
-    <tr>
-        <td>
-<img src="https://github.com/mustafacagri/mustafacagri/blob/output/github-contribution-grid-snake.gif" />
-        </td>
-    </tr>
-</table>
+<div>
+    <img alt="Mustafa Çağrı's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Mustafa Çağrı's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacagri&theme=dracula&hide_border=true">
+</div>

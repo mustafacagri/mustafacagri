@@ -10,39 +10,42 @@
 <p>&nbsp;</p>
 
 <h2><strong>👾 Senior Frontend Wizard</strong></h2>
-<p>📢 MEVN Stack Developer 🎩 Vue.js 3 ☄ Nuxt.js 3 🌟 Node.js ☃ Express.js 🌸 Pinia 😎 Vuex 🐧 Vuetify 🔥 Typescript ✍ Blogger</p>
+<p>📢 MEVN Stack Developer 🎩 Vue.js 3 ☄ Nuxt.js 3 🌟 Node.js ☃ Express.js 🌸 Pinia 😎 Vuex 🐧 Vuetify ✍ Blogger</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Hi there! <span style="margin:0 10px;">👋</span></strong></p>
     
-<p>I'm <strong>Mustafa Çağrı</strong>, a developer who specializes in the <strong>MEVN Stack</strong> and currently lives in <strong>Ankara, Turkey</strong>.</p>
+<p>I'm <strong>Mustafa Çağrı</strong>, a developer who specializes in the <strong>MEVN Stack</strong> and currently lives in <strong>Istanbul, Turkey</strong>.</p>
 
-<p>I earned my computer science engineering degree from Sabanci University in 2011. I've been coding for a long time, even before college, starting with Classic ASP age!</p>
+<p>I earned my computer science engineering degree from Sabanci University in 2011. Even before college, I've been coding for a long time, starting with Classic ASP age!</p>
 
 <p>I enjoy exploring new technologies and have a knack for quickly adapting to them. Nowadays, I focus mostly on front-end development, where Vue.js is my go-to however I can also work with pure Javascript and jQuery.</p>
 
-<p>When it comes to back-end development, my top choice is Node.js, followed by ASP.Net Core and PHP. </p>
+<p>When it comes to back-end development, my top choice is Node.js, followed by ASP and PHP. </p>
 
-<p>By the way, MySQL, MSSQL, MongoDB, Firebase are in my stack too.</p>
+<p>By the way, MySQL, MSSQL, MongoDB, PostgreSQL and Firebase are in my stack too.</p>
 
 <p>&nbsp;</p>
 
 <h2>✨ Stack</h2>
-<p>Vue 2, Vue 3, Nuxt 3, Node.js, Express.js, MongoDB, Pinia, Vuex, Vue Router, Vuetify, Vuexy, RESTful APIs, jQuery, Bootstrap, Classic ASP, PHP, .NET Core, MySQL, Lodash, i18n, SASS, UX Design</p>
+<p>Vue 2, Vue 3, Nuxt 3, Node.js, Express.js, MongoDB, Pinia, Vuex, Vue Router, Vuetify, Vuexy, RESTful APIs, jQuery, Bootstrap, Classic ASP, MySQL, Lodash, i18n, SASS, UX Design, Storybook, Regula (Face Recognition), Socket.io, Tailwind CSS</p>
 
 <h3>✢ Plus</h3>
-<p>Salesforce, Scrum, JIRA, Github, CI/CD, MSSQL, SEO, Firebase, Heroku</p>
+<p>Salesforce, Scrum, JIRA, Asana, Slack, Notion, GitHub, GitLab, CI/CD, GitHub Actions, MSSQL, SEO, Firebase, Heroku, Pager Duty, Sentry, XCode (iOS Simulator), OpenAI, Figma, VS Code, Postman, Adobe Photoshop</p>
+
+<h3>🌟 Middle Levels</h3>
+<p>React.js (approaching senior level), Typescript, .NET Core, PHP, PostgreSQL</p>
 
 <h3>✔ Willing to do</h3>
-<p>React, Typescript, Python, Amazon Web Services (AWS), Micro Services</p>
+<p>Typescript, Laravel, Python, Amazon Web Services (AWS), Micro Services, Docker, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure</p>
 
 <h3>✖ Not willing to do</h3>
 <p>JAVA, Angular</p>
 
 <p>&nbsp;</p>
 
-<p style="color: #39ae86;"><strong>❤ DRY, SOLID, Clean / Maintainable Code, Open Source ❤</strong></p>
+<p style="color: #39ae86;"><strong>❤ DRY, Clean / Maintainable Code, Open Source ❤</strong></p>
 
 <p>&nbsp;</p>
 

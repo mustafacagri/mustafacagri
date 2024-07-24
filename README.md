@@ -29,16 +29,16 @@
 <p>&nbsp;</p>
 
 <h2>✨ Stack</h2>
-<p>Vue 2, Vue 3, Nuxt 3, Node.js, Express.js, MongoDB, Pinia, Vuex, Vue Router, Vuetify, Vuexy, RESTful APIs, jQuery, Bootstrap, Classic ASP, MySQL, Lodash, i18n, SASS, UX Design, Storybook, Regula (Face Recognition), Socket.io, Tailwind CSS</p>
+<p>Vue 2, Vue 3, Nuxt 3, Node.js, Express.js, MongoDB, Pinia, Vuex, Vue Router, Vuetify, Vuexy, RESTful APIs, jQuery, Bootstrap, MySQL, Lodash, i18n, SASS / SCSS, UX Design, Storybook, Regula (Face Recognition), Socket.io, Tailwind CSS, Firebase, Data Visualization Tools (Chart.js, Highcharts and more...), ES6+ (Following as possible as the latest Ecma Script versions)</p>
 
 <h3>✢ Plus</h3>
-<p>Salesforce, Scrum, JIRA, Asana, Slack, Notion, GitHub, GitLab, CI/CD, GitHub Actions, MSSQL, SEO, Firebase, Heroku, Pager Duty, Sentry, XCode (iOS Simulator), OpenAI, Figma, VS Code, Postman, Adobe Photoshop</p>
+<p>Salesforce, Scrum, Agile Development, Team Leadership, JIRA, Asana, Slack, Notion, GitHub, GitLab, CI/CD, GitHub Actions, MSSQL, SEO, Heroku, Pager Duty, Sentry, XCode (iOS Simulator), OpenAI, Figma, VS Code, Postman, Adobe Photoshop, SonarCloud, Amazon Web Services (AWS), Docker, Classic ASP, SaaS Start-up & Scale-up Experiences, Unit Testing (Jest, Vitest)</p>
 
 <h3>🌟 Middle Levels</h3>
 <p>React.js (approaching senior level), Typescript, .NET Core, PHP, PostgreSQL</p>
 
 <h3>✔ Willing to do</h3>
-<p>Typescript, Laravel, Python, Amazon Web Services (AWS), Micro Services, Docker, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure</p>
+<p>Laravel, Python, Micro Services, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure...</p>
 
 <h3>✖ Not willing to do</h3>
 <p>JAVA, Angular</p>

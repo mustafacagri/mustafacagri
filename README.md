@@ -1,5 +1,5 @@
-<h1>Mustafa Çağrı Güven</h1>
-<p>
+<h1 align="center">Mustafa Çağrı Güven</h1>
+<p align="center">
     <a href="https://github.com/mustafacagri" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mustafacagri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="https://medium.com/@mustafacagri" target="_blank"><img src="https://img.shields.io/badge/-Medium-66cdaa?style=flat-square&logo=Medium&logoColor=white"/></a>

@@ -9,39 +9,50 @@
 
 <p>&nbsp;</p>
 
-<h2><strong>👾 Senior Frontend Wizard</strong></h2>
-<p>📢 MEVN Stack Developer 🎩 Vue.js 3 ☄ Nuxt.js 3 🌟 Node.js ☃ Express.js 🌸 Pinia 😎 Vuex 🐧 Vuetify ✍ Blogger</p>
+<h2 align="center"><strong>👾 Senior Frontend Wizard</strong></h2>
+<p align="center">📢 MEVN & MERN Stack 🎩 Vue.js 3 ☄ Nuxt.js 3 🌟 Next.js 14 🌠 React.js 18 💻 TypeScript 🦄 Node.js ☃ Express.js 🌸 Pinia 😎 Vuex 🐧 Vuetify ✍ Supabase 🔥 Tailwind 🎨 Blogger ❤ Open Source & Clean Code</p>
+
+<p align="center">🚀 MEVN & MERN Stack Developer Extraordinaire! 🌟</p>
+
+<p align="center">🔥 Frontend Guru (70%) | Backend Adventurer (30%) 🔥</p>
+<p align="center">💡 DRY Code Enthusiast | Clean & Maintainable Code Lover 💻</p>
+<p align="center">💚 Open Source Advocate 🌍</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Hi there! <span style="margin:0 10px;">👋</span></strong></p>
     
-<p>I'm <strong>Mustafa Çağrı</strong>, a developer who specializes in the <strong>MEVN Stack</strong> and currently lives in <strong>Istanbul, Turkey</strong>.</p>
+<p>I'm <strong>Mustafa Çağrı</strong>, a developer who specializes in the <strong>MEVN Stack</strong> & <strong>MERN Stack</strong> and currently lives in <strong>Istanbul, Turkey</strong>.</p>
 
-<p>I earned my computer science engineering degree from Sabanci University in 2011. Even before college, I've been coding for a long time, starting with Classic ASP age!</p>
-
-<p>I enjoy exploring new technologies and have a knack for quickly adapting to them. Nowadays, I focus mostly on front-end development, where Vue.js is my go-to however I can also work with pure Javascript and jQuery.</p>
-
-<p>When it comes to back-end development, my top choice is Node.js, followed by ASP and PHP. </p>
-
-<p>By the way, MySQL, MSSQL, MongoDB, PostgreSQL and Firebase are in my stack too.</p>
+<p>🌍 With a Computer Science Engineering degree from Sabancı University (2011) 🎓, I’ve been crafting code since the days of Classic ASP! '99 💾</p>
 
 <p>&nbsp;</p>
 
-<h2>✨ Stack</h2>
-<p>Vue 2, Vue 3, Nuxt 3, Node.js, Express.js, MongoDB, Pinia, Vuex, Vue Router, Vuetify, Vuexy, RESTful APIs, jQuery, Bootstrap, MySQL, Lodash, i18n, SASS / SCSS, UX Design, Storybook, Regula (Face Recognition), Socket.io, Tailwind CSS, Firebase, Data Visualization Tools (Chart.js, Highcharts and more...), ES6+ (Following as possible as the latest Ecma Script versions)</p>
+<h2>✨ What I Do Best:</h2>
 
-<h3>✢ Plus</h3>
-<p>Salesforce, Scrum, Agile Development, Team Leadership, JIRA, Asana, Slack, Notion, GitHub, GitLab, CI/CD, GitHub Actions, MSSQL, SEO, Heroku, Pager Duty, Sentry, XCode (iOS Simulator), OpenAI, Figma, VS Code, Postman, Adobe Photoshop, SonarCloud, Amazon Web Services (AWS), Docker, Classic ASP, SaaS Start-up & Scale-up Experiences, Unit Testing (Jest, Vitest)</p>
+<p>💻 Frontend: Vue.js is my superpower! Whether it's Vue 2 or Vue 3, I build sleek, responsive, and dynamic UIs. I’m also well-versed in pure JavaScript and jQuery for those extra tricky tasks. Additionally, React.js ofc!</p>
 
-<h3>🌟 Middle Levels</h3>
-<p>React.js (approaching senior level), Typescript, .NET Core, PHP, PostgreSQL</p>
+<p>🛠 Backend: Node.js is my backend buddy, with a soft spot for ASP.Net Core and PHP. And yep, I’m comfy with MySQL, MSSQL, MongoDB, PostgreSQL, Supabase, and Firebase too! 🔥</p>
 
-<h3>✔ Willing to do</h3>
-<p>Laravel, Python, Micro Services, Kubernetes, Google Cloud Platform (GCP), Microsoft Azure...</p>
+<h3>🔧 My Stack Arsenal:</h3>
 
-<h3>✖ Not willing to do</h3>
-<p>JAVA, Angular</p>
+<p>Vue 2, Vue 3, Nuxt 3, Pinia, Vuex, Vue Router, Vuetify, Vuexy, Node.js, Express.js, MongoDB, Tailwind CSS, RESTful APIs, jQuery, Bootstrap, Classic ASP, MySQL, Lodash, i18n, SASS, UX Design, Storybook, Regula (Face Recognition), Socket.io, React.js, Next.js, Redux, Typescript, .NET Core, PHP, OpenAI API, Unit Testing (Jest, Vitest) 🚀</p>
+
+<h3>🎯 Plus:</h3>
+
+<p>Salesforce, Scrum, JIRA, Asana, Slack, Notion, GitHub, GitLab, CI/CD, MSSQL, SEO, Firebase, Heroku, Netlify, AWS, PagerDuty, Sentry, XCode (iOS Simulator), OpenAI, Figma, VS Code, Postman, SonarCloud, Sonarlint, Adobe Photoshop 🎨</p>
+
+<h3>🔍 Always Open to New Adventures:</h3>
+
+<p>I’m all about embracing new technologies that push the boundaries and make the current ones seem old-school! I’m ready to dive in and explore whatever tech can bring the best results. 🌐</p>
+
+<h3>🌟 Why Choose Me?</h3>
+
+<p>I’m not just about writing code—I’m about crafting elegant, scalable, and user-friendly solutions. I thrive in environments where innovation meets collaboration. Let’s build something amazing together! 🌟</p>
+
+<h3>🚀 Let’s Get Started!</h3>
+
+<p>I’m ready to take your Vue.js, React.js, or Node.js projects to the next level. Drop me a message, and let’s create something extraordinary! 🌌</p>
 
 <p>&nbsp;</p>
 
@@ -53,9 +64,3 @@
     <img alt="Mustafa Çağrı's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=dracula&count_private=true&hide_border=true">
     <img alt="Mustafa Çağrı's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacagri&theme=dracula&hide_border=true">
 </div>
-
-
-<p>&nbsp;</p>
-
-<h3>Latest Medium Post</h3>
-<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mustafacagri/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mustafacagri/0" width="100%" /> 

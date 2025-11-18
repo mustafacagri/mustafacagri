@@ -10,7 +10,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center"><strong>👾 Senior Frontend Wizard</strong></h2>
-<p align="center">📢 MEVN & MERN Stack 🎩 Vue.js 3 ☄ Nuxt.js 3 🌟 Next.js 15 🌠 React.js 19 💻 TypeScript 🦄 Node.js ☃ Express.js 🌸 Pinia 😎 Vuex 🐧 Vuetify ✍ Supabase 🔥 Tailwind 🎨 Blogger ❤ Open Source & Clean Code</p>
+<p align="center">📢 MEVN & MERN Stack 🎩 Vue.js 3 ☄ Nuxt.js 4 🌟 Next.js 16 🌠 React.js 19 💻 TypeScript 🦄 Node.js ☃ Express.js 🌸 Pinia 😎 Vuex 🐧 Vuetify ✍ Supabase 🔥 Tailwind 🎨 Blogger ❤ Open Source & Clean Code</p>
 
 <p align="center">🚀 MEVN & MERN Stack Developer Extraordinaire! 🌟</p>
 
